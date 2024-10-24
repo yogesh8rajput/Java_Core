@@ -1,0 +1,35 @@
++-------------------------------------------------------------------+
+|                    Java Full-Stack Developer Roadmap              |
+|---------------------+--------------------+------------------------|
+|   **Phase**         | **Duration**       | **Key Topics**          |
+|---------------------|--------------------|------------------------|
+| **1. Basics of Java** | 1-2 Months         | - Programming Basics    |
+|                     |                    | - Core Java             |
+|                     |                    | - OOP Principles        |
+|---------------------|--------------------|------------------------|
+| **2. Development Tools** | 2-3 Weeks       | - IDEs (IntelliJ, Eclipse) |
+|                     |                    | - Git & GitHub          |
+|                     |                    | - Build Tools (Maven, Gradle) |
+|---------------------|--------------------|------------------------|
+| **3. Backend Development** | 2-3 Months    | - Java Web Technologies |
+|                     |                    | - Spring Framework      |
+|                     |                    | - RESTful Web Services  |
+|                     |                    | - Database Access (JDBC, JPA) |
+|---------------------|--------------------|------------------------|
+| **4. Frontend Development** | 2-3 Months    | - HTML/CSS              |
+|                     |                    | - JavaScript (ES6+)     |
+|                     |                    | - Frontend Frameworks (React.js, Angular) |
+|---------------------|--------------------|------------------------|
+| **5. Full-Stack Integration** | 2-3 Months  | - Connecting Frontend and Backend |
+|                     |                    | - RESTful API Integration |
+|                     |                    | - Authentication & Authorization |
+|---------------------|--------------------|------------------------|
+| **6. Deployment & DevOps** | 1-2 Months     | - Deployment (AWS, Heroku) |
+|                     |                    | - CI/CD                 |
+|                     |                    | - Containerization (Docker, Kubernetes) |
+|---------------------|--------------------|------------------------|
+| **7. Advanced Topics** | Ongoing            | - Microservices         |
+|                     |                    | - Testing               |
+|                     |                    | - Performance Optimization |
+|                     |                    | - Soft Skills           |
++-------------------------------------------------------------------+
