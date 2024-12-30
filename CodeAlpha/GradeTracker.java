@@ -35,6 +35,6 @@ public class GradeTracker {
 
     @Override
     public String toString() {
-        return "Student{name='" + name + "', grades=" + grades + ", average=" + getAverageGrade() + '}';
+        return "Student{Name='" + name + "', Grades=" + grades + ", Average=" + getAverageGrade() + '}';
     }
 }
