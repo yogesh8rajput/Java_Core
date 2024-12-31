@@ -7,7 +7,7 @@ class Factorial
  
   if(n<0)
   {
-	  System.out.println("invalid");
+	  System.out.println("Invalid/INCORRECT");
 	  return;
   }
    int factorial=1;
