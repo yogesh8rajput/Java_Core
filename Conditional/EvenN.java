@@ -10,10 +10,10 @@ class EvenN
   num=sc.nextInt();
   if(num%2==0)
   {
-    System.out.println("Enen Number");
+    System.out.println("It's an Even Number");
   }
   else{
-    System.out.println("Odd Number");
+    System.out.println("It's a Odd Number");
   }
   }
 
