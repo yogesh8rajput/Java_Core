@@ -20,7 +20,7 @@ class Circle{
 	c.x=0;
 	c.y=0;
 	c.r=2;
-	System.out.println("cercum"+c.cercum());
-	System.out.println("Area"+c.area());
+	System.out.println("Circumference: "+c.cercum());
+	System.out.println("Area: "+c.area());
 	}
 	}
