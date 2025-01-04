@@ -17,10 +17,12 @@ dis=(puramt*10)/100;
 total=puramt-dis;
 
 }
-System.out.println("Purchase Amount: "+puramt);
-System.out.println("Discount=-"+dis);
+System.out.println("Purchase Amount : "+puramt);
+System.out.println("Discount=- "+dis);
 System.out.println("Total bill: "+total);
 
 
+
+   
 }
 }
