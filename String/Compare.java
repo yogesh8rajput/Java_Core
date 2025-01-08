@@ -8,8 +8,8 @@ class Compare
   //s1<s2 :- value 
   if(name1.compareTo(name2)==0)
   {
-  System.out.println("Strings are equal");
+  System.out.println("Both the Strings are equal");
   }
-  else{ System.out.println("not equal");}
+  else{ System.out.println("Both Strings are not equal");}
   } 
 }
