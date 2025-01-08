@@ -14,7 +14,7 @@ void deposit(float amt){
 amt=sc.nextFloat();	
 amount=amount+amt;
   
-System.out.println(amt+" deposited");
+System.out.println(amt+" depositeded");
   
 }  
 //withdraw method  
