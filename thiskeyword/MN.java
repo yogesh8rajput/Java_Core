@@ -1,12 +1,12 @@
 class A{
 	
 	void m(){
-	System.out.println("hello m function");
+	System.out.println("Hello, This is m function.");
 	
 	}
 	void n(){
 		this.m();
-	System.out.println("hello n function");
+	System.out.println("Hello, This is n function.");
 	//this.m();
 	}
 }
