@@ -8,7 +8,7 @@ class Student{
 }
 //non perameterised constructer
 		Student(){
-		System.out.println("Vidhya children Academy, Indore(M.P.)");
+		System.out.println("Vidhya children higher Academy, Indore(M.P.)");
 		}
 }
   class StudentI{
