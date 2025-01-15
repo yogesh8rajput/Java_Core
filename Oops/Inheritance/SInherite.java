@@ -15,6 +15,6 @@ class SInherite{
     public static void main(String arg[])
 	{
 	Triangle t1=new Triangle();
-	t1.area(8,4);
+	t1.area(18,4);
 	}
 }
