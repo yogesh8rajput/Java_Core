@@ -6,7 +6,7 @@ class A{
 	}
 	void n(){
 		this.m();
-	System.out.println("Hello, This is n function.");
+	System.out.println("Hello,This is n function.");
 	//this.m();
 	}
 }
