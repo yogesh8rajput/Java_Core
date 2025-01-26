@@ -1,7 +1,7 @@
 class Shape{
   public void area()
    {
-	   System.out.println("Dispaly area");
+	   System.out.println("Dispaly area:");
    }
 }
 class Triangle extends Shape{
