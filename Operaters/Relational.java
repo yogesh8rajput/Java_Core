@@ -6,7 +6,7 @@ int a=10;
 int b=13;
 
   a=b;
-  //System.out.println(a);
+  System.out.println(a);
  // System.out.println(b);
 }
 }
