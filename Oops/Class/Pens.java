@@ -14,7 +14,7 @@ String type;
 	{
 	Pen p1=new Pen();
 	p1.color="Blue";
-	p1.type="Ball pen";
+	p1.type="Ball pens";
 	//p1.write();
 	Pen p2=new Pen();
 	p2.color="black";
