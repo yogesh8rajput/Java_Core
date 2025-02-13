@@ -16,6 +16,7 @@ class Student1{
 class StudentInfo1{
 	public static void main(String arg[]){
 	Student1 s1=new Student1(14,"Ayush","Ideal");
+		
 	Student1 s2=new Student1(24,"Deepu","LNCT");
 	s1.display();
 	s2.display();
