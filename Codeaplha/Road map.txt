@@ -4,6 +4,9 @@ Creating a full-stack Java developer involves mastering both front-end and back-
 
 #### 1. **Fundamentals of Programming and Java (1-2 Months)**
 
+
+
+
    - **Learn Basic Programming Concepts:**
      - Variables, data types, operators, control flow (if-else, loops)
      - Functions and recursion
