@@ -14,6 +14,8 @@ class Triangle2 extends Triangle{
 	public void area(int l,int h)
    {
 	   System.out.println(l*h*1/2);
+
+	   
    }
 }
 
