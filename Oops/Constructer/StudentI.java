@@ -14,6 +14,8 @@ class Student{
   class StudentI{
   public static void main(String arg[])
   {
+
+	  
     Student s1=new Student();
 	s1.name="Ayush";
 	s1.age=15;
