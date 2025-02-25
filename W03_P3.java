@@ -7,7 +7,7 @@ class W03_P3{
         if (x >= 1)
             return x * factorial(x - 1);
         else
-            return 1;
+            return ;
     }
 	
 	
