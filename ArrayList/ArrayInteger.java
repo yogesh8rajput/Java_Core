@@ -8,10 +8,10 @@ class ArrayInteger
 	  list.add(6);
 	  list.add(0);
 	  System.out.println(list);
-	  //Get 
+	  //Get according to index
 	  int element=list.get(0);
 	   System.out.println(element);
-	  //Add between
+	  //Add between the array
 	  list.add(2,1);
 	System.out.println(list);
 		//set
