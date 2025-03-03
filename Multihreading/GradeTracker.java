@@ -13,7 +13,7 @@ public class GradeTracker {
         if (!students.containsKey(name)) {
             students.put(name, new Student(name));
         } else {
-            System.out.println("Student already exists.");
+            System.out.println("Student already registered.");
         }
     }
 
@@ -22,7 +22,7 @@ public class GradeTracker {
         if (student != null) {
             student.addGrade(grade);
         } else {
-            System.out.println("Student not found.");
+            System.out.println("Student not registered.");
         }
     }
 
