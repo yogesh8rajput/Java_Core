@@ -5,7 +5,7 @@ public class W7{
 	{
 	try{
 		PrintWriter writer=new PrintWriter(System.out);
-			writer.writer(91+07);
+			writer.writer(91+7);
 			writer.close();
 			}
 			catch(Exception e){
