@@ -3,7 +3,7 @@ class Relational
 public static void main(String arg[])
 {
 int a=10;
-int b=13;
+int b=133;
 
   a=b;
   System.out.println(a);
