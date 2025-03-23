@@ -4,6 +4,7 @@ public class W7{
     public static void main(String arg [])
 	{
 	try{
+		
 		PrintWriter writer=new PrintWriter(System.out);
 
 
