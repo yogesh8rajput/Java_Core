@@ -1,7 +1,8 @@
 public class Calculator{
-   int num=100;
+   int num=10;
    public void calc(int num){
    this.num=num*10;
+	   
    
    }
    public void printNum(){
