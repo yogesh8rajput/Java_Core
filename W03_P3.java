@@ -5,7 +5,8 @@ class W03_P3{
  public static long factorial(int x)
     {
         if (x >= 1)
-            return x * factorial(x - 1);
+		
+            return x * factorial((x) - 1);
 
 		
 
