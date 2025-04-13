@@ -10,6 +10,7 @@ class Counter2{
 	Counter1 c3=new Counter1();
 	Counter1 c1=new Counter1();
 	Counter1 c2=new Counter1();
+		Counter1 c4=new Counter1();
 	
 }
 }
