@@ -3,7 +3,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class GradeTracker {
-    private Map<String, Student> students;
+    private Map<String, Student > students;
 
     public GradeTracker() {
         students = new HashMap<>();
