@@ -9,7 +9,7 @@ class Counter1{
 	public static void main(String arg[]){
 	Counter c3=new Counter();
 	Counter c1=new Counter();
-	Counter c2=new Counter();
+	Counter c2r=new Counter();
 	
 }
 }
