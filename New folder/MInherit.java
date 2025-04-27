@@ -23,8 +23,8 @@ class MInherit{
     public static void main(String arg[])
 	{
 	Triangle t1=new Triangle();
-	t1.area(8,9);
+	t1.area(9,9);
 	Triangle2 t2=new Triangle2();
-	t2.area(8,8);
+	t2.area(9,8);
 	}
 }
