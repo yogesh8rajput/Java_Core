@@ -9,7 +9,7 @@ class Subtraction
   System.out.println("Enter two number");
   a=sc.nextInt();
   b=sc.nextInt();
-  c=a-b;
+  c=a+b;
   System.out.println("Subtraction of two number:- "+c);
   }
 }
