@@ -3,7 +3,7 @@ class Multi extends Thread
 {
  public void run()
  {
- System.out.println("Thread in running"); }
+ System.out.println("Thread in running in"); }
 
 
 	public static void main(String arg[]){
