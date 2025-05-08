@@ -2,8 +2,8 @@ class Preincrement
 {
 public static void main(String arg[])
 {
-int a=10;
-int b=13;
+int a=100;
+int b=113;
 
   b=a++;
   System.out.println(a);
