@@ -9,7 +9,7 @@ public class W7{
 
 
 		
-			writer.writer(919+10);
+			writer.writer(9+10);
 			writer.close();
 			}
 			catch(Exception e){
