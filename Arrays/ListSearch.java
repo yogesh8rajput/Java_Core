@@ -12,7 +12,7 @@ public static void main(String arg[]){
 	for(int i=0;i<n.length;i++){
 	if(n[i]==x)
 	{
-	System.out.println("x number found:"+i);
+	System.out.println("X Number Found in the array at location:"+i);
 }
 }
 }
