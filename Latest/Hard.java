@@ -3,6 +3,6 @@ class SHard
 {
    public static void main(String arg[])
    {
-   System.out.println("Hello Welcome to learning  Java core ,oops ,Advance , Spring , Hibernate,Spring Boot,React learning class");
+   System.out.println("Hello Welcome to learning  Java core ,oops, data structure,Advance , Spring , Hibernate,Spring Boot,React learning class");
    }
 }
