@@ -1,6 +1,6 @@
 public class PalindromicArray {  
     public static void main(String[] args) {  
-        int[] array = {1, 2, 3, 2, 1};  
+        int[] array = {1, 2, 3, 3 ,2, 1};  
         boolean isPalindromic = checkPalindromic(array);  
         if (isPalindromic) {  
             System.out.println("The array is palindromic.");  
