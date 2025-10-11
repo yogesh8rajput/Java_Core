@@ -7,9 +7,9 @@ public class Task1 {
 
         // Add some students and grades
         Student alice = new Student("Alice");
-        alice.addGrade(90);
-        alice.addGrade(85);
-        alice.addGrade(88);
+        alice.addGrade(90%);
+        alice.addGrade(85%);
+        alice.addGrade(88%);
         students.add(alice);
 
         Student bob = new Student("Bob");
