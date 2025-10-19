@@ -3,6 +3,6 @@ class SHard
 {
    public static void main(String arg[])
    {
-   System.out.println("Welcome to new classes Java classes");
+   System.out.println("Welcome to new classes Java to classes");
    }
 }
