@@ -1,4 +1,7 @@
-class Shape{
+
+
+
+change class Shape{
   public void area()
    {
 	   System.out.println("Dispaly area:");

@@ -11,8 +11,9 @@ class W03_P3{
         Scanner in = new Scanner(System.in);
         int x;
         x = in.nextInt();
-        System.out.print(factorial(x));   
-         System.out.print(""factorial(x)"");   
+        System.out.print(factorial(x));  
+
+         System.out.print("factorial(x)");   
 		//extra line of codes 
   }
 }
