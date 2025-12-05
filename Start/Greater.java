@@ -17,7 +17,7 @@ System.out.println("Type value if B:");
         System.out.println("equal");
 
      
-     else if(a>b)
+     else if(a > b)
      
         System.out.println("A is greater");
 
