@@ -2,7 +2,7 @@ class Compare
 {
   public static void main(String arg[]){
   String name1="Ayush";
-  String name2="Ayushi";
+  String name2="Ayushi2";
   // s1>s2:+ value
   //s1==s2:0
   //s1<s2 :- value 
