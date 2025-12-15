@@ -1,5 +1,5 @@
 import java.io.File;
-
+//Objective: To find the size of the given file.
 class FileSizeEaxmple{
 	public static void main(String arg[])
 	{
