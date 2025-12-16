@@ -3,6 +3,6 @@ class SHard
 {
    public static void main(String arg[])
    {
-   System.out.println("Welcome to new yes classes in Java and advance to classes with update");
+   System.out.println("Welcome to new yes classes in Java and advance , Hibernate to classes with update");
    }
 }
