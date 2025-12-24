@@ -9,7 +9,7 @@ public class W7{
 
 
 		
-			writer.writer(91+110);
+			writer.writer(91+10);
 			}
 			catch(Exception e){
 			System.out.println(e);
