@@ -20,7 +20,7 @@ class Factorial
   public static void main(String arg[])
   {
   Scanner sc=new Scanner(System.in);
-  System.out.println("Enter the one numberrrrr!!!!!!!!!");
+  System.out.println("Enter the one numberrrrrrrrrr!!!!!!!!!");
   int n=sc.nextInt();
   printFactorial(n);
   }
