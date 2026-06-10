@@ -1,5 +1,5 @@
 class SHard
-
+//check to error
 {
    public static void main(String arg[])
    {
