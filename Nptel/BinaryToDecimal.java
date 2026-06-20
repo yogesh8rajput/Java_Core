@@ -16,6 +16,6 @@ class BinaryToDecimal {
          base = base * 2;
       }
       System.out.println("Binary number: " + binaryNumber);
-      System.out.println("Decimal number: " + decimalNumber);
+      System.out.println("Decimal number: " + decimalNumber);!/// check out 
    }
 }
